@@ -1,6 +1,7 @@
 
 def levitation_quiz
-loop 
+loop do
+  
 end
 
 
