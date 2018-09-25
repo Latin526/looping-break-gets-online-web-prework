@@ -1,7 +1,7 @@
 
 def levitation_quiz
 loop do
-  puts ""
+  puts "What is   "
 end
 
 
